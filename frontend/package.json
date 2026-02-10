@@ -1,0 +1,13 @@
+{
+  "name": "meme-concept-explainer-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Meme-Based Concept Explainer",
+  "private": true,
+  "scripts": {
+    "start": "echo 'Frontend start command - Add your framework here (React, Vue, etc.)'",
+    "build": "echo 'Frontend build command'",
+    "test": "echo 'Frontend tests'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

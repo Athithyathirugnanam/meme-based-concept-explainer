@@ -1,0 +1,27 @@
+{
+  "name": "meme-based-concept-explainer",
+  "version": "1.0.0",
+  "description": "A beginner-friendly full-stack application that explains technical concepts through meme-based visual storytelling",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Start command not yet configured'",
+    "test": "echo 'Tests not yet configured'",
+    "dev": "echo 'Development server not yet configured'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Athithyathirugnanam/meme-based-concept-explainer.git"
+  },
+  "keywords": [
+    "memes",
+    "education",
+    "full-stack",
+    "concept-learning"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Athithyathirugnanam/meme-based-concept-explainer/issues"
+  },
+  "homepage": "https://github.com/Athithyathirugnanam/meme-based-concept-explainer#readme"
+}
